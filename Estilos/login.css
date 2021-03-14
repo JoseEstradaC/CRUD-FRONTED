@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1696aa;
+  height: 100vh;
+}
+
+#formulario {
+  padding: 20px;
+}

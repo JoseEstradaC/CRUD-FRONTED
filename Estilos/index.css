@@ -1,0 +1,15 @@
+nav {
+  border-bottom: 1px rgb(2, 172, 202) solid;
+  height: 8vh;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+
+.fondo {
+  background-color: rgb(88, 111, 112);
+}

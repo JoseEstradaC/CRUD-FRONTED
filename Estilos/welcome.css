@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: 'Orbitron', sans-serif;
+}
+p {
+  font-size: 1.2em;
+  font-family: sans-serif;
+}
+
+#fondo {
+  background: url('../imagenes/fondo.jpg') no-repeat center;
+  height: 92vh;
+}
+
+@media (max-width: 768px) {
+  #fondo {
+    background: url('../imagenes/fondoResponsive.jpg') no-repeat scroll center top;
+    background-size: cover;
+  }
+}
